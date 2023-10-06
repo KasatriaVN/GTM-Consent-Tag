@@ -1,0 +1,6 @@
+homepage: "https://kasatria.vn/"
+documentation: ""
+versions:
+  # Latest version
+  - sha:
+    changeNotes: Initial release
